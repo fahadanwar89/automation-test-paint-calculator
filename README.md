@@ -1,3 +1,5 @@
+# Paint Calculator App
+---
 ## Synopsis
 
 The **Paint Calculator** is a hypothetical project that calculates how many gallons of paint would be required to paint a number of rooms.
@@ -47,3 +49,30 @@ To make it easier on everybody, it's best if we use a PR to diff what work was c
 ## Running Tests
 
 Write instructions for how a user executes the automated tests you created.
+
+# Run Automation Test
+---
+## Test Automation Paint Calculator
+
+Web test automation project using Eclipse IDE, Java, Maven, Junit, TestNG, Selenium 3 and Page Object Model (POM)
+
+## Test Subject
+
+This is an automation challenge to test a Paint Calculator written in Python using a localhost url.
+
+## Libraries and Frameworks
+
+Version for some of these can be found in the POM file.
+
+Selenium - Web automation<br/>
+Maven - Build and package management<br/>
+Junit and TestNG - Test execution and Reporting<br/>
+
+## Tools
+
+Eclipse IDE or IntelliJ IDEA.
+
+## Programming Language
+
+I'm using Java SE version jdk1.6.0
+
